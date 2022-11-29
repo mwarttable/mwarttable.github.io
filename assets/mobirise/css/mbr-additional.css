@@ -821,7 +821,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-toogMepNAc .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.2rem);
   }
 }
 .cid-toogMepNAc .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -976,7 +976,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-toogMepNAc button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1133,6 +1133,9 @@ a {
 }
 .cid-toohyOLAsq .mbr-section-title {
   color: #ffffff;
+}
+.cid-toohyOLAsq .mbr-description {
+  color: #bbbbbb;
 }
 .cid-toolKVG6zQ {
   padding-top: 5rem;
